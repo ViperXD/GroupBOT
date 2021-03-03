@@ -24,12 +24,7 @@ im a group manager bot maintained by  [this person](tg://user?id={}).
 
 My future updates will be put into This Channel - @Vkprojects & My Support Group @Vkpbots.
 
-This is my [Deploy Code](https://heroku.com/deploy?template=https://github.com/v-v-r-official/GroupBOT),
-you can create clone same like me..
-
 For more commands click /help...
-
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
 """
 
 HELP_STRINGS = """
@@ -48,7 +43,7 @@ Hello! my name *{}*.
 And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nAll of the following commands  / or ! can  be used...\n")
 
-DONATE_STRING = """Heya, glad to hear you want to donate!It took lots of work for [CHANNEL](t.me/VKPROJECTS) to get me to where I am now,You Can Donate To My Channel [Here](https://t.me/VKPROJECTS/7). """
+DONATE_STRING = """Heya, glad to hear you want to donate!It took lots of work for [CHANNEL](t.me/VKPROJECTS) to get me to where I am now,You Can Donate To My Channel [Here](https://t.me/VKPROJECTS/5). """
 
 IMPORTED = {}
 MIGRATEABLE = []
